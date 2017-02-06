@@ -1,0 +1,1 @@
+Dockerfile of https://hub.docker.com/r/trixmegist/jenkins-dind/
